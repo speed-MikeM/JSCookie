@@ -1,5 +1,5 @@
-# JS Cookies
-JavaScript Simple cookie implementation
+# JS Cookie
+JavaScript cookie implementation
 
 # Introduction
 Don't like to get into a cookie implementation on your own, yet want one to be easy and as you go?
