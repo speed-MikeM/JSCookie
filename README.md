@@ -2,6 +2,8 @@
 JavaScript cookie implementation
 
 # Introduction
+Do you have a weakness for amazing tasty cookies? Then this cookie jar is great for you!
+
 Don't like to get into a cookie implementation on your own, yet want one to be easy and as you go?
 At this very moment, this "library" is the correct one for you, with only one .js file added to your project with only 4 methods and 3 properties you are on to go.
 
@@ -9,7 +11,7 @@ At this very moment, this "library" is the correct one for you, with only one .j
 | Code | Description
 | --- | --- |
 | **_Properties_** |
-| `Cookie.cookieList` | Is an object filled out of cookie data |
+| `Cookie.cookieList` | Is an object filled with cookies *yummie* |
 | `Cookie.expiryDays` | Is the amount of days the cookie shall live for (no validation for ints) |
 | `Cookie.overwriteIfExists` | Is a boolean value if the cookie shall be overwritten if it exists or the data shall be appended (no validation for bools) |
 | **_Methods_** |
