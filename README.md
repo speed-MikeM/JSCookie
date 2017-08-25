@@ -16,6 +16,4 @@ At this very moment, this "library" is the correct one for you, with only one .j
 | `Cookie.load()` | Loads the cookies out of document.cookie and fills the cookie object with it's data |
 | `Cookie.set(name, content, path = /, overwrite = null)` | Sets or Edits the cookie, path is by default set to /, if a boolean is given for overwrite, it uses this value else it uses overwriteIfExists property |
 | `Cookie.get(name)` | Receives the cookie from the cookieList object, when it does not exists, it will return undefined |
-| `Cookie.remove(name)` | Removes the cookie out of the cookieList object and out of document.cookie (expiry set to yesterday) |
-
-# Under Construction
+| `Cookie.remove(name)` | Removes the cookie out of the cookieList object and out of document.cookie (expiry set to yesterday) | 
